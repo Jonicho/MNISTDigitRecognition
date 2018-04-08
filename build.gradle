@@ -4,7 +4,7 @@ plugins {
     id 'eclipse'
 }
 
-mainClassName = 'App'
+mainClassName = 'de.jrk.mnist.Gui'
 
 dependencies {
     testCompile 'junit:junit:4.12'
